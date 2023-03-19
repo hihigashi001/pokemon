@@ -1,0 +1,14 @@
+{
+  "codic.ACCESS_TOKEN": "AsyKKS68XgyTajF5Z4e1rH2AczQxuqH0su",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.quickSuggestions": { "strings": true },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.format": true
+  },
+  "editor.guides.bracketPairs": true
+}
